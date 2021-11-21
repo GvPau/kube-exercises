@@ -27,7 +27,3 @@ De esta manera le cambiamos al servicio la version del selector.
 
 A partir de ahora, el trafico esta por la versión 2 de la aplicación y podemos eliminar el deploy 1 en este caso con el comando:
 **kubectl delete deploy nginx-v1.0.0**
-
-
-
-

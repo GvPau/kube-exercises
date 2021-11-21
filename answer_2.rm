@@ -32,7 +32,3 @@ Si se necesita tener una replica en cada uno de los nodos de Kubernetes podemos 
 
 Un DaemonSet garantiza que todos (o algunos) de los nodos ejecuten una copia de un Pod. 
 Conforme se añade más nodos al clúster, nuevos Pods son añadidos a los mismos. Conforme se elimina nodos del clúster, dichos Pods se destruyen y al eliminar un DaemonSet se limpian todos los Pods que han sido creados.
-
-
-
-

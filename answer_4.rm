@@ -37,16 +37,3 @@ En este caso le paso la revision 1, pero puede ser el numero de revision que que
 Una vez hecho el undo, si hacemos un describe del deploy, podemos ver que sus contenedores vuelven a tener la version 1 de la imagen de nginx.
 
 ![title](images/hw4/rollbackdescribe.png)
-
-
-
-
-
-
-
-
-
-
-
-
-

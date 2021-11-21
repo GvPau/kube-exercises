@@ -44,3 +44,4 @@ Y al final del log podemos ver la qos que kubernetes ha otorgado al pod
 
 La razon por la que se ha assignado al pod el qos "Guarenteed" es porque los limits y los requests son iguales entre ellos (siendo los dos diferentes de 0).
 
+
